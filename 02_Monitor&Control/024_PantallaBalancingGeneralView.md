@@ -62,7 +62,7 @@ slider vertical.</p>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>Muestra los valores guardados en los “Settings”.</td>
+<td>Muestra los valores guardados en los [“Settings”](../03_Settings/012_PantallaBalancingSettings.md).</td>
 </tr>
 <tr class="odd">
 <td>7</td>
