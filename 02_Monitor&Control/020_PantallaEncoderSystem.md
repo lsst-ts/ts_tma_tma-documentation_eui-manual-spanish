@@ -45,8 +45,7 @@ interlock en caso de haberlo.</p>
 <col style="width: 10<col style="width: 89</colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="../Resources/media/image5.png" style="width:0.49028in;height:0.47153in"
-alt="Un letrero de color negro Descripción generada automáticamente con confianza baja" /></td>
+<td><img src="../Resources/media/image005.png" style="width:0.49028in;height:0.47153in"/></td>
 <td>Realizar esta operación sólo por personal instruido.</td>
 </tr>
 </tbody>
