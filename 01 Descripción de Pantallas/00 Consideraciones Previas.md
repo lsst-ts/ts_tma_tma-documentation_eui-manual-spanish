@@ -23,6 +23,7 @@ Existen cuatro tipos de usuarios diferentes:
   parámetros dentro de los límites previamente establecidos para cada uno de ellos.
 
 ![Pantalla apertura de sesión.](../Resources/media/image008.JPG){width=25%}
+
 *Figura 2‑1. Pantalla apertura de sesión.*
 
 #### Modos de funcionamiento
@@ -41,6 +42,7 @@ Existen tres modos de funcionamiento del telescopio:
 Los iconos de la siguiente figura aparecen en la mayoría de las pantallas y funcionan todos como acceso a otra pantalla.
 
 ![Acceso a otra pantalla](../Resources/media/image009.png){width="1.5528248031496064in" height="0.4260870516185477in"}
+
 *Figura 2‑2. Acceso a otra pantalla.*
 
 En el momento en el que se ejecute un comando, en cualquiera de las pantallas, se puede visualizar en la parte superior
@@ -48,6 +50,7 @@ derecha de la pantalla una barra de progreso, como la que se ve en la Figura 2�
 botones menos el "Stop" quedan deshabilitados.
 
 ![Barra de progreso](../Resources/media/image010.png){width="6.69375in" height="3.573611111111111in"}
+
 *Figura 2‑3. Barra de progreso.*
 
 Todas las pantallas de "Monitor&Control" poseen un menú de pantallas como se ve en la Figura 2‑4. Este menú también se
@@ -55,6 +58,7 @@ mantiene oculto mientras se ejecuta un comando, esto es así, porque no se puede
 un comando.
 
 ![Menú de pantallas](../Resources/media/image011.png){width="6.69375in" height="3.5805555555555557in"}
+
 *Figura 2‑4. Menú de pantallas.*
 
 Por la misma razón, se deshabilitan todos los accesos directos que pueda haber en dicha pantalla.
@@ -64,9 +68,11 @@ Por último, se diferencian dos tipos de recuadros a lo largo de todas las panta
 - Recuadros con marco: son controles, permiten modificar los valores de su interior.
 
 ![Ejemplo control](../Resources/media/image012.png){width="1.5748031496062993in" height="0.6216141732283464in"}
+
 *Figura 2‑5. Ejemplo control.*
 
 - Recuadros sin marco: son indicadores, solamente muestran valores.
 
 ![Ejemplo indicador](../Resources/media/image013.png){width="1.5748031496062993in" height="0.4886340769903762in"}
+
 *Figura 2‑6. Ejemplo indicador.*
