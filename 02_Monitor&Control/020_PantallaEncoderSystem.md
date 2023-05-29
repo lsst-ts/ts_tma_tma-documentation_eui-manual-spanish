@@ -45,8 +45,8 @@ interlock en caso de haberlo.</p>
 <col style="width: 10<col style="width: 89</colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="../Resources/media/image005.png" style="width:0.49028in;height:0.47153in"/></td>
-<td>Realizar esta operación sólo por personal instruido.</td>
+<td>🛑</td>
+<td><b>Realizar esta operación sólo por personal instruido.</b></td>
 </tr>
 </tbody>
 </table></td>
