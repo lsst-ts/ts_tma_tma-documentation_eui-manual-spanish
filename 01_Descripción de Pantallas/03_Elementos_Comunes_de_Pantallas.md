@@ -35,8 +35,7 @@ como todas las pantallas de "Settings".
           Manager”</a>
         </p>
         <p>
-          Muestra los estados de “Operation Manager”,
-          [ver](./03_Elementos_Comunes_de_Pantallas.md/#estados)
+          Muestra los estados de “Operation Manager”, <a href="./03_Elementos_Comunes_de_Pantallas.md/#estados">ver</a>
         </p>
       </td>
     </tr>
@@ -44,8 +43,7 @@ como todas las pantallas de "Settings".
       <td>4</td>
       <td>
         <p>
-          Permite acceder a la pantalla [“Safety
-          System”](../02_Monitor%26Control/034_PantallaSafetySystem.md) Muestra
+          Permite acceder a la pantalla [Safety System](../02_Monitor&Control/034_PantallaSafetySystem.md) Muestra
           cuatro señales del sistema de seguridad:
         </p>
         <ul>
