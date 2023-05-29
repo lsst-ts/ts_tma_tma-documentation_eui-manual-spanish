@@ -93,3 +93,7 @@ El manual se compone de los siguientes apartados:
   - [ElementosComunes de Pantallas](./04_HHD/002_ElementosComunesdePantallas.md)
 - [Cierre Aplicación](./05_CierreAplicacion/)
   - [Introducción](./05_CierreAplicacion/000_Introduccion.md)
+
+## Version relations
+
+To see the relations between this document and the EUI versions see [CHANGELOG](./CHANGELOG.md)
