@@ -34,8 +34,7 @@ Esta pantalla muestra y permite controlar los pasadores de bloqueo del eje de el
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="../Resources/media/image6.png" style="width:0.49028in;height:0.4625in"
-alt="Icono Descripción generada automáticamente" /></td>
+<td><img src="../Resources/media/image006.png" style="width:0.49028in;height:0.4625in"/></td>
 <td>Esta posición (test) supone un riesgo para el telescopio, los movimientos permitidos son inferiores a 0,2 deg.</td>
 </tr>
 </tbody>
