@@ -63,8 +63,7 @@ Las extensiones del lado de M1M solo se pueden extender con el “Mirror Cover�
 <col style="width: 10<col style="width: 89</colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="../Resources/media/image7.png" style="width:0.48125in;height:0.49028in"
-alt="Icono Descripción generada automáticamente" /></td>
+<td>ℹ️</td>
 <td>Para poder bloquear las extensiones de las plataformas, estas tienen que estar insertadas. Insertar las extensiones
 (así como extraerlas) es una acción que ha de realizarse de forma manual desde la propia plataforma.</td>
 </tr>
