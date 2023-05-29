@@ -106,8 +106,7 @@ como todas las pantallas de "Settings".
       <td>9</td>
       <td>
         <p>
-          Permite acceder a la pantalla [“Alarm
-          History”](../02_Monitor%26Control/036_PantallaAlarmHistory.md)
+          Permite acceder a la pantalla [“Alarm History”](../02_Monitor%26Control/036_PantallaAlarmHistory.md)
         </p>
         <p>
           Softkey “GENERAL”: permite acceder a todas las alarmas sin filtrar.
