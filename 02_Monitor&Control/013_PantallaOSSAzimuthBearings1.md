@@ -1,4 +1,4 @@
-#### Pantalla Azimuth Bearings 1
+#### Pantalla OSS Azimuth Bearings 1
 
 Esta pantalla muestra los valores del primer grupo de cojinetes de azimuth de "Oil Supply System (OSS)". Es una pantalla
 únicamente de monitorización.

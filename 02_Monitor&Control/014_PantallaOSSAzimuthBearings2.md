@@ -1,4 +1,4 @@
-#### Pantalla Azimuth Bearings 2
+#### Pantalla OSS Azimuth Bearings 2
 
 Esta pantalla muestra los valores del segundo grupo de cojinetes de azimuth de "Oil Supply System (OSS)". Es una
 pantalla únicamente de monitorización.
