@@ -41,7 +41,7 @@ Existen tres modos de funcionamiento del telescopio:
 
 Los iconos de la siguiente figura aparecen en la mayoría de las pantallas y funcionan todos como acceso a otra pantalla.
 
-![Acceso a otra pantalla](../Resources/media/image009.png){width="1.5528248031496064in" height="0.4260870516185477in"}
+![Acceso a otra pantalla](../Resources/media/image009.png)
 
 *Figura 2‑2. Acceso a otra pantalla.*
 
@@ -49,7 +49,7 @@ En el momento en el que se ejecute un comando, en cualquiera de las pantallas, s
 derecha de la pantalla una barra de progreso, como la que se ve en la Figura 2‑3. También se puede ver cómo todos los
 botones menos el "Stop" quedan deshabilitados.
 
-![Barra de progreso](../Resources/media/image010.png){width="6.69375in" height="3.573611111111111in"}
+![Barra de progreso](../Resources/media/image010.png)
 
 *Figura 2‑3. Barra de progreso.*
 
@@ -57,7 +57,7 @@ Todas las pantallas de "Monitor&Control" poseen un menú de pantallas como se ve
 mantiene oculto mientras se ejecuta un comando, esto es así, porque no se puede salir de una ventana mientras se ejecuta
 un comando.
 
-![Menú de pantallas](../Resources/media/image011.png){width="6.69375in" height="3.5805555555555557in"}
+![Menú de pantallas](../Resources/media/image011.png)
 
 *Figura 2‑4. Menú de pantallas.*
 
@@ -67,12 +67,12 @@ Por último, se diferencian dos tipos de recuadros a lo largo de todas las panta
 
 - Recuadros con marco: son controles, permiten modificar los valores de su interior.
 
-![Ejemplo control](../Resources/media/image012.png){width="1.5748031496062993in" height="0.6216141732283464in"}
+![Ejemplo control](../Resources/media/image012.png)
 
 *Figura 2‑5. Ejemplo control.*
 
 - Recuadros sin marco: son indicadores, solamente muestran valores.
 
-![Ejemplo indicador](../Resources/media/image013.png){width="1.5748031496062993in" height="0.4886340769903762in"}
+![Ejemplo indicador](../Resources/media/image013.png)
 
 *Figura 2‑6. Ejemplo indicador.*
