@@ -5,7 +5,7 @@
 En esta pantalla se muestran los sistemas principales y sus respectivos estados. Cada recuadro tiene acceso a la
 pantalla correspondiente.
 
-![Pantalla monitor general view](./Resources/media/image018.png)
+![Pantalla monitor general view](../Resources/media/image018.png)
 
 *Figura 2‑11. Pantalla monitor general view.*
 
@@ -37,7 +37,7 @@ pantalla correspondiente.
 </tr>
 <tr class="even">
 <td>4</td>
-<td><p>Permite acceder a la pantalla [“Azimuth General View”](./005_PantallaAzimuthGeneralView.md</p>
+<td><p>Permite acceder a la pantalla [“Azimuth General View”](./005_PantallaAzimuthGeneralView.md)</p>
 <p>Muestra el estado, la posición (en deg) y el setpoint (en deg) de “Azimuth”.</p></td>
 </tr>
 <tr class="odd">
