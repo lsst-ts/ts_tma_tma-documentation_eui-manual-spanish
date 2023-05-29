@@ -5,7 +5,7 @@ de este y posteriormente ajustar el controlador correspondiente.
 
 | AVISO |  AVISO                                               |
 |-------|------------------------------------------------------|
-| ![Un letrero de color negro Descripción generada automáticamente con confianza baja](../Resources/media/image005.png){wight=5%}| **USAR SÓLO POR PERSONAL CUALIFICADO PARA ESTE ENSAYO.**|
+| ![](../Resources/media/image005.png){wight=1%}| **USAR SÓLO POR PERSONAL CUALIFICADO PARA ESTE ENSAYO.**|
 
 ![](../Resources/media/image54.png)
 
