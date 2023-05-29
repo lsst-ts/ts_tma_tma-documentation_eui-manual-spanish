@@ -78,7 +78,7 @@ respetar para evitar:</p>
 
 ### CONDICIONES GENERALES DE SEGURIDAD
 
-![Stop signal](../Resources/media/image005.png){width=25%}
+![Stop signal](../Resources/media/image005.png){width=10%}
 
 - 🛑 **EL PERSONAL QUE UTILIZA EL SOFTWARE DEBE SER PERSONAL CUALIFICADO O INSTRUIDO QUE HA RECIBIDO FORMACIÓN ESPECÍFICA
   EN EL USO DE ESTE SOFTWARE, INCLUYENDO LOS PELIGROS QUE PRESENTA EL MISMO, LAS MEDIDAS DE SEGURIDAD QUE DEBE ADOPTAR Y
@@ -95,7 +95,7 @@ respetar para evitar:</p>
 - 🛑 **ANTES DE REALIZAR CUALQUIER OPERACIÓN CON ESTE SOFTWARE SE DEBEN LEER Y OBSERVAR LAS CONDICIONES GENERALES DE
   SEGURIDAD QUE FIGURAN EN EL MANUAL DE SEGURIDAD.**
 
-![Warning sign](../Resources/media/image006.png "title"){width=25%}
+![Warning sign](../Resources/media/image006.png "title"){width=10%}
 
 - ⚠️ **El personal de producción no debe modificar parámetros o ajustes que puedan afectar al funcionamiento básico del
   sistema.**
