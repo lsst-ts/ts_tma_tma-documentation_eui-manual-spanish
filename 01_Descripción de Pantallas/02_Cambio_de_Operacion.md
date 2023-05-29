@@ -9,7 +9,7 @@ resto de los dispositivos el marco se mostrará en rojo.
 Por ejemplo, si el maestro es el EUI, este tendrá el marco de la pantalla verde, mientras que el HHD tendrá el marco
 rojo.
 
-> Mientras el maestro sea el HHD, ningún otro dispositivo puede solicitar el comando hasta que el HHD se desconecte o
+> ℹ️ Mientras el maestro sea el HHD, ningún otro dispositivo puede solicitar el comando hasta que el HHD se desconecte o
 > proporcione el comando a otro dispositivo.
 
 ![Pantalla cambio de modo de operación](../Resources/media/image015.png)
