@@ -2,7 +2,7 @@
 
 Una vez se introduce el usuario y contraseña correcto, se accede a la pantalla inicial "Home".
 
-![Pantalla inicio](./Resources/media/image014.png)
+![Pantalla inicio](../Resources/media/image014.png)
 
 *Figura 2‑7. Pantalla inicio.*
 
