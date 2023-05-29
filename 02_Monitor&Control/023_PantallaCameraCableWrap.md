@@ -6,7 +6,7 @@ Esta pantalla muestra y permite controlar los estados y movimientos de los motor
 
 | AVISO      | AVISO                                                                                                      |
 |------------|------------------------------------------------------------------------------------------------------------|
-| ![Un letrero de color negro Descripción generada automáticamente con confianza baja](../Resources/media/image005.png){wigth=5%}| NO UTILIZAR ESTE ELEMENTO SI LA CÁMARA SE ENCUENTRA CONECTADA, SALVO POR PERSONAL FORMADO EN EL ROTADOR Y ROTADOR DE CABLES DE LA CÁMARA. |
+| ![](../Resources/media/image005.png){wigth=5%}| **NO UTILIZAR ESTE ELEMENTO SI LA CÁMARA SE ENCUENTRA CONECTADA, SALVO POR PERSONAL FORMADO EN EL ROTADOR Y ROTADOR DE CABLES DE LA CÁMARA.**|
 
 ![](../Resources/media/image67.png)
 
