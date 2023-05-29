@@ -121,7 +121,7 @@ como todas las pantallas de "Settings".
       <td>10</td>
       <td>
         Marco de la pantalla, su color cambia dependiendo del modo de operación,
-        [ver](./00_Consideraciones_Previas.md)
+        [ver](./02_Cambio_de_Operacion.md)
       </td>
     </tr>
   </tbody>
