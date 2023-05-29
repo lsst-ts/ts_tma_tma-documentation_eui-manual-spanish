@@ -31,8 +31,8 @@ como todas las pantallas de "Settings".
       <td>3</td>
       <td>
         <p>
-          Permite acceder a la pantalla [“Operation
-          Manager”](../02_Monitor%26Control/035_PantallaOperationManager.md)
+          Permite acceder a la pantalla <a href="../02_Monitor&Control/035_PantallaOperationManager.md">“Operation
+          Manager”</a>
         </p>
         <p>
           Muestra los estados de “Operation Manager”,
