@@ -22,7 +22,7 @@ Existen cuatro tipos de usuarios diferentes:
 - **D_Maintenance**: Se trata de usuarios de Mantenimiento. Permite realizar todas las operaciones y manejar todos los
   parámetros dentro de los límites previamente establecidos para cada uno de ellos.
 
-![Pantalla apertura de sesión.](../Resources/media/image008.JPG){width=25%}
+![Pantalla apertura de sesión.](../Resources/media/image008.JPG)
 
 *Figura 2‑1. Pantalla apertura de sesión.*
 
