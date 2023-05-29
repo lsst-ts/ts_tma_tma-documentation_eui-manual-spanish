@@ -4,7 +4,7 @@
 
 Esta pantalla permite comandar los ejes de azimuth y elevación al mismo tiempo.
 
-> La pantalla no permite realizar nuevas operaciones hasta que los dos ejes completen la operación previamente solicitada.
+> ℹ️ La pantalla no permite realizar nuevas operaciones hasta que los dos ejes completen la operación previamente solicitada.
 
 ![Pantalla main axis general view - current move](../Resources/media/image019.png)
 
@@ -100,7 +100,7 @@ deg/s<sup>2</sup>) y jerk (en deg/s<sup>3</sup>) tanto de elevación como de azi
 </tr>
 <tr class="odd">
 <td>11</td>
-<td><p>Permite acceder a la pantalla [“Azimuth Cable Wrap”](./006_PantallaAzimuthCableWrap.md) 2.5.2.3.2.</p>
+<td><p>Permite acceder a la pantalla [“Azimuth Cable Wrap”](./006_PantallaAzimuthCableWrap.md)</p>
 <p>Muestra el estado y la posición (en deg) de “Azimuth Cable Wrap (ACW)”.</p></td>
 </tr>
 <tr class="even">
