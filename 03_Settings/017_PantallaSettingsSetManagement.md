@@ -29,4 +29,4 @@ el desplegable "setting set".
 
 ![Pantalla diff current settings with settings sets](../Resources/media/image122.png)
 
-*Figura 2‑97.2. Pantalla diff current settings with settings sets.*
+*Figura 2‑97.2. Pantalla diff current settings with settings sets (this is a pop-up window).*
