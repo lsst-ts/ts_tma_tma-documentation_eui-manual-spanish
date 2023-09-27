@@ -44,11 +44,5 @@ control “temp. setpoint”.</p>
 <td>Softkey “MANUAL”: Permite manejar la apertura de la válvula de manera manual utilizando el valor introducido en el
 control “valve setpoint”.</td>
 </tr>
-<tr class="odd">
-<td>5</td>
-<td><p>Softkey “START”: Permite comenzar el autotune, una vez completado requiere guardar los settings calculados. Estos
-se escriben como “Write” (en naranja) en la pantalla de “Settings” correspondiente.</p>
-<p>Softkey “STOP”: Permite parar el autotune.</p></td>
-</tr>
 </tbody>
 </table>
