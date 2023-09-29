@@ -41,9 +41,8 @@ izquierda de la pantalla y aparece un recuadro rojo para indicar que el valor es
 </tr>
 <tr class="even">
 <td>4</td>
-<td><p>Softkey “RESTART TCP TELEMETRY”: Permite reiniciar el servidor de telemetría TCP que envía la telemetría al
+<td><p>Softkey “RESTART CSC TCP TELEMETRY”: Permite reiniciar el servidor de telemetría TCP que envía la telemetría al
 CSC.</p>
-<p>Softkey “STOP PXI APP”: Permite apagar el control del PXI principal.</p></td>
 </tr>
 </tbody>
 </table>
