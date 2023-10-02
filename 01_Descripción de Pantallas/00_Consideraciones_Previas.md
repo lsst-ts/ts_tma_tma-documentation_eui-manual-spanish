@@ -26,6 +26,12 @@ Existen cuatro tipos de usuarios diferentes:
 
 *Figura 2‑1. Pantalla apertura de sesión.*
 
+Una vez iniciada la sesión, se muestra el usuario actual en la parte superior izquierda de la pantalla.
+
+![Usuario actual](../Resources/media/userDisplay.png)
+
+*Figure 2‑1.1. Usuario actual.*
+
 #### Modos de funcionamiento
 
 Existen tres modos de funcionamiento del telescopio:
